@@ -42,6 +42,7 @@ h2{
     text-align: center;
     margin-top: 3%;
     font-size: 40px;
+    font-family: 'Source Serif Pro', serif;
 
 }
 .my-mission-2022{
@@ -91,6 +92,12 @@ h2{
 .goals img{
     width: 40%;
 }
+.with-out{
+    color:dodgerblue;
+}
+.community{
+    color: mediumseagreen;
+}
 section p{
     text-align: justify;
 }
@@ -101,8 +108,80 @@ section p{
 .know-our{
     padding-left: 10%;
 }
+.header-text{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 8%;
+
+}
+.join{
+    color:dodgerblue;
+}
+.our-community{
+    color: mediumslateblue;
+
+}
+h3{
+    font-family: 'Source Serif Pro', serif;
+    font-size: 30px;
+    padding-left: 3%;
+}
+.from-div{
+    width: 25%;
+    height: 25%;
+    background-color: mediumslateblue;
+    padding: 5%;
+    border-radius: 15px;
+    box-shadow:  10px 10px 15px mediumpurple, -15px -15px mediumpurple;
+    margin-left: 15%;
+}
+.about-us{
+    width: 25%;
+    height: 25%;
+    background-color:lightsalmon;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    margin-left: 10%;
+}
+.about-us img{
+    width: 60%;
+}
+.about-us p{
+    text-align: justify;
+    padding: 3%;
+}
+#fname{
+    border-radius: 15px;
+    padding: 10px 15px;
+}
+#email{
+    border-radius: 15px;
+    padding: 10px 15px;
+}
+#password{
+    border-radius: 15px;
+    padding: 10px 15px;
+}
+.form-submit{
+    background-image: linear-gradient(mediumpurple,mediumslateblue);
+    color: darkslateblue;
+    font-weight: 800;
+    padding: 10px 80px;
+    border-radius: 20px;
+}
+.form-reset{
+    background-image: linear-gradient(mediumpurple,mediumslateblue);
+    color: darkslateblue;
+    font-weight: 800;
+    padding: 10px 90px;
+    border-radius: 20px;
+}
 .footer{
-    background-color: black;
+    background-color:black;
     margin-left:  0px; 
     margin-right: 0px;
     margin-bottom: 0px;
@@ -121,4 +200,6 @@ section p{
     color: wheat;
     text-align: center;
     padding-bottom: 5%;
+    font-weight: 800;
+    font-size: 20px; ;
 }
